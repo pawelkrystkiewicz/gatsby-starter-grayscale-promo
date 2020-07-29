@@ -6,6 +6,7 @@ graphics:
     image: /assets/avatar_2020.jpg
     source: My own colection
     sourceText: Jedi
+widget: AccentBlock
 effect: fade-slide-top
 effectTimeout: 1
 fontSize: standard
