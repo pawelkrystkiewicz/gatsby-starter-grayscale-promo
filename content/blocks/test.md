@@ -2,7 +2,10 @@
 id: test
 sort: 6
 graphics:
-  - image: /assets/image_1.jpg
+  - author: Me
+    image: /assets/image_1.jpg
+    source: Some source
+    sourceText: XD
 widget: StandardBlock
 effectTimeout: 0
 fontSize: standard
