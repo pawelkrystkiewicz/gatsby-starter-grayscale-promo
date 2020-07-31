@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: 'Landing page',
         description: 'Landing page',
-        author: 'pawelkrystkiewicz',
+        author: '@pawelkrystkiewicz',
     },
     plugins: [
         {
