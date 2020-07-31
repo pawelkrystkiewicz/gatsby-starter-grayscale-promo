@@ -61,5 +61,13 @@ module.exports = {
             },
         ],
         'react/prop-types': 'off',
+        'graphql/template-strings': [
+            'error',
+            {
+                env: 'relay',
+                tagName: 'graphql',
+                schemaJson: require('./schema.json'),
+            },
+        ],
     },
 };
