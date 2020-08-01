@@ -10,9 +10,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">CODE PRECISION<br/>Landing page</h3>
+  <h3 align="center">Template<br/>Landing page</h3>
   <p align="center">
-    <a href="https://code-precision.pl/">Visit page</a>
+    <a href="https://example.com/">Visit page</a>
     <!-- ·
     <a href="https://github.com/pawelkrystkiewicz/gatsby-starter-grayscale-promo/issues">Report Bug</a>
     ·
