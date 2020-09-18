@@ -1,7 +1,7 @@
 ---
 title: We create solutions tailored to your needs
 subtitle: "Our team helps companies driving growth through digital cross industries "
-logo: assets/logo-3-gold.png
+logo: assets/logo.png
 button-text: TELL US ABOUT YOUR PROJECT
-image: assets/promo.png
+image: assets/landing-page-promo-graphic.png
 ---
